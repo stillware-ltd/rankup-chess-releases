@@ -6,14 +6,14 @@ This repository hosts the desktop downloads for **RankUp Chess**, an offline che
 
 Grab the latest release from the [Releases page](https://github.com/stillware-ltd/rankup-chess-releases/releases/latest).
 
-- **macOS**: v0.8.0, [RankUpChess-0.8.0-macOS.dmg](https://github.com/stillware-ltd/rankup-chess-releases/releases/download/v0.8.0-macos/RankUpChess-0.8.0-macOS.dmg). Signed with a Developer ID certificate and notarised by Apple.
+- **macOS**: v0.9.0, [RankUpChess-0.9.0-macOS.dmg](https://github.com/stillware-ltd/rankup-chess-releases/releases/download/v0.9.0-macos/RankUpChess-0.9.0-macOS.dmg). Signed with a Developer ID certificate and notarised by Apple. On macOS 10.15 or 11, use [v0.8.0](https://github.com/stillware-ltd/rankup-chess-releases/releases/download/v0.8.0-macos/RankUpChess-0.8.0-macOS.dmg).
 - **Windows**: v0.8.0, [RankUpChess-Setup-0.8.0.exe](https://github.com/stillware-ltd/rankup-chess-releases/releases/download/v0.8.0/RankUpChess-Setup-0.8.0.exe). Not yet code-signed, so SmartScreen shows a warning the first time: click **More info** → **Run anyway**.
 - **iPhone and iPad**: [App Store](https://apps.apple.com/app/id6806675796)
 - **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.stillware.rankup_chess)
 
 ## System requirements
 
-- **macOS**: 10.15 (Catalina) or later. Universal binary, Apple Silicon and Intel.
+- **macOS**: 12 (Monterey) or later from v0.9.0 (v0.8.0 runs on 10.15 Catalina and later). Universal binary, Apple Silicon and Intel.
 - **Windows**: Windows 10 (version 1809 / build 17763) or later, 64-bit.
 
 ## Learn more
